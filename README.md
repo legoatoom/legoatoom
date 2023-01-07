@@ -1,5 +1,7 @@
-### Hello
-todo: make a profile readme
+# legoatoom
+I am legoatoom, this is my peronal page. Stop stalking.
+
+Pronounciation: `/leː.ɦoaːˈtoːm/`
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=legoatoom&count_private=true&theme=tokyonight&show_icons=true)]()
 

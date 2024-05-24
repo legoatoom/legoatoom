@@ -9,4 +9,4 @@ I am something of a java fan myself\
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=legoatoom&langs_count=5&theme=tokyonight)]()
 
 ## Contact
-If you wish to contact me for any reason. You can mail me at [contact@legoatoom.com](mailto:contact+github@legoatoom.com)
+If you wish to contact me for any reason. You can mail me at [contact@legoatoom.com](mailto:contact@legoatoom.com)
